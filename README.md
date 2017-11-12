@@ -1,6 +1,14 @@
-# Messenger Platform Sample
+# Messenger chatbot
 
-This is a sample project showcasing the Messenger Platform. You can go through the [walk-through](https://developers.facebook.com/docs/messenger-platform/quickstart) to understand this code in more detail. The [Complete Guide](https://developers.facebook.com/docs/messenger-platform/implementation) goes deeper into the features available.
+## Getting started
 
-Visit the [dev site](https://developers.facebook.com/docs/messenger-platform/) to find out more details about the Messenger Platform.
+* https://developers.facebook.com/docs/messenger-platform
+* https://github.com/fbsamples/messenger-platform-samples
 
+* https://github.com/remixz/messenger-bot
+* https://github.com/DiegoRBaquero/node-fb-messenger
+
+* https://github.com/jw84/messenger-bot-tutorial
+* to expose local http server to facebook api: https://ngrok.com/
+* why not using ? https://github.com/bubenshchykov/ngrok
+* https://wit.ai/

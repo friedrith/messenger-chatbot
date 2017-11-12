@@ -1,0 +1,44 @@
+{
+  "name": "messenger-chatbot",
+  "version": "0.1.0",
+  "description": "Get started example for Messenger Platform",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha test/test-parser.js",
+    "start": "babel-node src/app.js",
+    "build": "babel src --out-dir dist",
+    "lint": "eslint --ignore-path node_modules src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thibaultfriedrich/messenger-chatbot.git"
+  },
+  "author": "Thibault Friedrich",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "config": "^1.20.4",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "messenger-bot": "^2.4.0",
+    "request": "^2.72.0",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "~6.14.0",
+    "babel-eslint": "~6.1.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2017": "^6.22.0",
+    "babel-preset-stage-2": "^6.22.0",
+    "chai": "^3.5.0",
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^11.1.0",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "mocha": "^3.2.0"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  }
+}
