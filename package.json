@@ -7,7 +7,8 @@
     "test": "mocha test/test-parser.js",
     "start": "babel-node src/app.js",
     "build": "babel src --out-dir dist",
-    "lint": "eslint --ignore-path node_modules src/"
+    "lint": "eslint --ignore-path node_modules src/",
+    "series": "babel-node src/series.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,8 @@
     "ejs": "^2.4.2",
     "express": "^4.13.4",
     "messenger-bot": "^2.4.0",
+    "moment": "^2.22.1",
+    "node-tvdb": "^4.0.0",
     "request": "^2.72.0",
     "winston": "^2.3.1"
   },
