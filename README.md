@@ -2,7 +2,7 @@
 
 This repository is related to a presentation done in [F8 meetup at Chambéry (France)](https://splashthat.com/sites/view/f8meetupfrenchalps.splashthat.com) in parallel of the [Facebook developer conference F8](https://www.f8.com/).
 
-The slides are available [here](https://slides.com/friedrit/messenger-chatbot).
+The slides are available [here](https://slides.com/friedrit/f8-meetup-messenger-chatbot).
 
 ## Getting started
 
